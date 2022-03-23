@@ -86,49 +86,17 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-work {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.benefit-work h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefit-work img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -143,20 +111,14 @@ p {
     color: #ffffff;
 }
 
-
 .service img {
     max-height: 200px;
 }
-
-
-
 
 .service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-
 
 .footer {
     padding: 30px;
